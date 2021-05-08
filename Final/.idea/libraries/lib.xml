@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../DOWNLOAD/httpcomponents-client-5.0-bin/httpcomponents-client-5.0/lib" />
+      <root url="jar://$PROJECT_DIR$/../../../Download_From_Edge/slf4j-simple-1.7.30.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Download_From_Edge/jsoup-1.13.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../DOWNLOAD/mysql-connector-java-8.0.20/mysql-connector-java-8.0.20/mysql-connector-java-8.0.20.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../DOWNLOAD/httpcomponents-client-5.0-bin/httpcomponents-client-5.0/lib" recursive="false" />
+  </library>
+</component>
